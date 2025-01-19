@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Tanta",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-09-28T21:00:00.000Z",
+      "notes": "tanta is beautiful",
+      "position": {
+        "lat": "30.784317689718897",
+        "lng": "31.030883789062504"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Banha",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-09-29T21:00:00.000Z",
+      "notes": "banha is very good",
+      "position": {
+        "lat": "30.461991548485024",
+        "lng": "31.18400573730469"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Marsa Maţruḩ",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-10-13T21:00:00.000Z",
+      "notes": "very good",
+      "position": {
+        "lat": "31.203404950917395",
+        "lng": "27.39990234375"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Riyadh",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2024-10-31T22:00:00.000Z",
+      "notes": "place very good",
+      "position": {
+        "lat": "24.666986385216273",
+        "lng": "47.21923828125001"
+      },
+      "id": 98443203
+    }
+  ]
+}
